@@ -5,6 +5,22 @@
   box-sizing:border-box;
   font-family:'poppins',sans-serif
 }
+.git{
+  display: block;
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 30px;
+    color: #0059dd;
+    line-height: 57px;
+    text-align: center;
+  
+}
+img{
+  margin-top: 0.2em;
+  margin-bottom: -1em;
+  width: 1.8em;
+}
+
 body{
   display:flex;
   padding:0 10px;
